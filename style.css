@@ -1,18 +1,15 @@
-.rightimg {
+img {
 	
 float: right;
-margin: 7px, 7px, 7px, 7px;	
+margin: 7px;	
 
 }
 
-.h1 {
+h1,h2 {
 	font-weight: bold;
+	text-align: center;
 }
 
-.h2 {
-	font-weight: bold;
-}
-
-.body{
-	background-image:url(C:\Users\Андрей\Desktop\My Resume\MyResume\Images\pngtree long street.jpg);
+body{
+	background-image:url(background.jpg);
 }
